@@ -1,5 +1,7 @@
 # ClientesApp
 
+![img](https://github.com/adcavalcant/introduction-to-angular/blob/main/angular-img.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
 
 ## Development server
